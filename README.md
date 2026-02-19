@@ -8,7 +8,7 @@ A production-ready Android application demonstrating a product catalog fetched f
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/oyehanif/LumosPractical.git
+   git clone https://github.com/oyehanif/lumoslogic.git
    ```
 2. **Open in Android Studio**:
    - Use **Android Studio Ladybug (2024.2.1)** or newer.
